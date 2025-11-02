@@ -17,8 +17,8 @@ listview {
   columns: 3;
   lines: 1;
   flow: vertical;
-  fixed-width: false;
-  fixed-height: false;
+  fixed-width: true;
+  fixed-height: true;
   cycle: true;
   background-color: @surface-container;
   border-radius: 10px;

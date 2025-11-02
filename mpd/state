@@ -1,8 +1,8 @@
 sw_volume: 90
 audio_device_state:1:PulseAudio Output
 state: stop
-current: 3
-random: 0
+current: 2
+random: 1
 repeat: 0
 single: 0
 consume: 0
@@ -15,4 +15,6 @@ playlist_begin
 1:Katyusha-Japanese-Version-[Original].mp3
 2:Sincerely, I love you..mp3
 3:[Lyrics+Vietsub] Abba-Lay All Your Love On Me (Slowed+Reverb) - S P R I N G (youtube).mp3
+4:Broken hearts sing the loudest.mp3
+5:this song appeared because you needed it.mp3
 playlist_end

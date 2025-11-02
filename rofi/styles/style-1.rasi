@@ -22,7 +22,7 @@ configuration {
 /*****----- Global Properties -----*****/
 @import "~/.config/rofi/shared/colors.rasi"
 @import "~/.config/rofi/shared/fonts.rasi"
-@import "~/.cache/rofi-wallpapers/current_wallpaper.rasi"
+/*@import "~/.cache/rofi-wallpapers/current_wallpaper.rasi"*/
 
 /*****----- Main Window -----*****/
 window {
@@ -57,7 +57,7 @@ imagebox {
     padding:                     20px;
     background-color:            transparent;
     //background-image:            url("~/.config/rofi/shared/current-wallpaper.png", height);
-    background-image:            @current-image;
+    background-image:            url("~/.config/rofi/shared/current-wallpaper.png", height);
     orientation:                 vertical;
     children:                    [ "inputbar", "dummy", "mode-switcher" ];
 }
