@@ -18,16 +18,14 @@
 	"fixed-center": true,
 	"ipc": true,
 	"margin-top": 3,
-	"margin-left": 8,
-	"margin-right": 8,
+	"margin-left": 0,
+	"margin-right": 0,
 	
 	"modules-left": [
 		"custom/separator#blank",
 		"custom/cava_mviz",
 		"custom/separator#blank",
 		"custom/playerctl",
-		"custom/separator#blank_2",
-		"hyprland/window",
 		],
 	
 	"modules-center": [
@@ -38,17 +36,14 @@
 		"hyprland/workspaces#rw",
 		"clock",
 		"custom/separator#dot-line",
-		"custom/weather",
-		"custom/separator#dot-line",
 		"idle_inhibitor",	
-		"custom/hint",	
 		],
 	
 	"modules-right": [
 		"tray",
 		"network#speed",
 		"custom/separator#dot-line",
-		"group/laptop",
+	  "group/laptop",
 		"custom/separator#dot-line",
 		"group/mobo_drawer",
 		"custom/separator#line",  

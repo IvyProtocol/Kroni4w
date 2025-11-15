@@ -69,6 +69,8 @@ apply_wallpaper() {
     notify-send "Wallpaper Theme applied" -i "$img"
     hyprctl reload
     ~/.config/hypr/scripts/cava-pywal.sh
+
+
 }
 
 # ────────────────────────────────────────────────

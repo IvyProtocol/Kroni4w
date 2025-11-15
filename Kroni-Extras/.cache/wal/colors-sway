@@ -1,21 +1,21 @@
-set $wallpaper /home/Kroni4/Pictures/wallpapers/ZQtHC817mOEO7sb.webp
+set $wallpaper /home/Kroni4/Pictures/wallpapers/3 rain_world.png
 
-set $background #111018
-set $foreground #c3c3c5
+set $background #150915
+set $foreground #c4c1c4
 
-set $color0 #111018
-set $color1 #445A90
-set $color2 #5D6984
-set $color3 #6E748E
-set $color4 #897F98
-set $color5 #9C93AB
-set $color6 #CBB5BB
-set $color7 #c3c3c5
-set $color8 #5f5b6f
-set $color9 #445A90
-set $color10 #5D6984
-set $color11 #6E748E
-set $color12 #897F98
-set $color13 #9C93AB
-set $color14 #CBB5BB
-set $color15 #c3c3c5
+set $color0 #150915
+set $color1 #382667
+set $color2 #4B315F
+set $color3 #624D69
+set $color4 #856671
+set $color5 #5B3887
+set $color6 #6A5395
+set $color7 #c4c1c4
+set $color8 #6c586c
+set $color9 #382667
+set $color10 #4B315F
+set $color11 #624D69
+set $color12 #856671
+set $color13 #5B3887
+set $color14 #6A5395
+set $color15 #c4c1c4

@@ -32,6 +32,15 @@
 	"tooltip-format": "Launch Terminal",
 },
 
+"custom/battery": {
+	"exec": "$HOME/.config/hypr/scripts/battery.sh",
+	"interval": 8,
+	"format": "{}",
+	"return-type": "json",
+	"tooltip": true,
+	"on-click": "$HOME/.config/hypr/scripts/battery.sh toggle",
+},
+
 "custom/browser": {
 	"format": " ",
 	"on-click": "xdg-open https://",

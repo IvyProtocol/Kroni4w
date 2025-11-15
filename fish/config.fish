@@ -1,5 +1,6 @@
 if status is-interactive
-	
+	set -U fish_greeting ""
+
   #Use starship
 	starship init fish | source
 

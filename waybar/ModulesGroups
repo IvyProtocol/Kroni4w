@@ -46,7 +46,8 @@
 	"orientation": "inherit",
 	"modules": [
 		"backlight",
-		"battery",
+		"custom/battery",
+		"power-profiles-daemon",
 	]
 },
 "group/audio": {

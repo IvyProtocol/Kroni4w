@@ -1,4 +1,7 @@
 alsa-utils
+acpi
+acpi_call
+acpid
 base
 bluetui
 bluez-utils
@@ -8,6 +11,7 @@ cmatrix
 cava
 cdrtools
 cliphist
+cpupower
 fastfetch
 file-roller
 firefox
@@ -19,8 +23,11 @@ gopreload-git
 hypridle
 hyprland
 hyprlock
+hyprlang
+hyprutils
 imagemagick
 inotify-tools
+intel-media-driver
 jq
 kitty
 loupe
@@ -36,6 +43,7 @@ neovim
 networkmanager
 nm-connection-editor
 nwg-look
+ncdu
 pacman-contrib
 pamixer
 pavucontrol
@@ -47,6 +55,7 @@ python-pywal16
 python-pywalfox
 preload
 qt5-wayland
+qt6-base
 reflector
 rofi
 starship

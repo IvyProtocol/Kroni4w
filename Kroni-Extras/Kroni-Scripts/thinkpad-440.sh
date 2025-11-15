@@ -7,6 +7,7 @@ libva-utils        # VA-API testing tools (Intel-specific)
 linux-firmware     # Needed for hardware microcode
 linux-zen          # Kernel variant
 thermald           # Intel thermal management daemon
-tlp                # Power management (ThinkPad recommended)
 vdpauinfo          # Video acceleration info (GPU-specific)
 vulkan-intel    
+tp-smapi
+cpio
