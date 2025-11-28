@@ -6,9 +6,13 @@
 *.tmp
 
 # Local secrets
-secrets/
 pavucontrol.ini
 
 # Desktop files
-*.desktop
-*dconf
+desktop
+dconf
+.mozilla
+.assets
+vesktop/Crashpad
+vesktop/sessionData
+
