@@ -34,7 +34,7 @@
 
 "custom/battery": {
 	"exec": "$HOME/.config/hypr/scripts/battery.sh",
-	"interval": 8,
+	"interval": 2,
 	"format": "{}",
 	"return-type": "json",
 	"tooltip": true,

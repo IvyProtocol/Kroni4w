@@ -1,0 +1,48 @@
+
+dcol_pry1 = #1A1C23
+dcol_txt1 = #FFFFFF
+dcol_1xa1 = #293252
+dcol_1xa2 = #3A456B
+dcol_1xa3 = #4B567D
+dcol_1xa4 = #57638F
+dcol_1xa5 = #6573A3
+dcol_1xa6 = #7A8AC2
+dcol_1xa7 = #9AABE6
+dcol_1xa8 = #AABAF0
+dcol_1xa9 = #CCD7FF
+
+dcol_pry2 = #464650
+dcol_txt2 = #FFFFFF
+dcol_2xa1 = #292952
+dcol_2xa2 = #3A3A6B
+dcol_2xa3 = #4B4B7D
+dcol_2xa4 = #57578F
+dcol_2xa5 = #6565A3
+dcol_2xa6 = #7A7AC2
+dcol_2xa7 = #9A9AE6
+dcol_2xa8 = #AAAAF0
+dcol_2xa9 = #CCCCFF
+
+dcol_pry3 = #7A7A89
+dcol_txt3 = #ECECEC
+dcol_3xa1 = #292952
+dcol_3xa2 = #3A3A6B
+dcol_3xa3 = #4B4B7D
+dcol_3xa4 = #57578F
+dcol_3xa5 = #6565A3
+dcol_3xa6 = #7A7AC2
+dcol_3xa7 = #9A9AE6
+dcol_3xa8 = #AAAAF0
+dcol_3xa9 = #CCCCFF
+
+dcol_pry4 = #E6DBD8
+dcol_txt4 = #050505
+dcol_4xa1 = #523229
+dcol_4xa2 = #6B443A
+dcol_4xa3 = #7D564B
+dcol_4xa4 = #8F6357
+dcol_4xa5 = #A37265
+dcol_4xa6 = #C2897A
+dcol_4xa7 = #E6AA9A
+dcol_4xa8 = #F0B9AA
+dcol_4xa9 = #FFD7CC

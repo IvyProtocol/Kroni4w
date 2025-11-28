@@ -1,8 +1,8 @@
 {
-    "wallpaper": "/home/Kroni4/Pictures/wallpapers/3 rain_world.png",
+    "wallpaper": "/home/Kroni4/.cache/rofi-wallpapers/rain_girl_door.jpg",
     "alpha": "100",
     "colors": {
-      "color0": "#161217",
+      "color0": "#1A1C23",
       "color1": "",
       "color2": "",
       "color3": "",
@@ -12,11 +12,11 @@
       "color7": "",
       "color8": "",
       "color9": "",
-      "color10": "#deb9f7",
+      "color10": "#AAAAF0",
       "color11": "",
       "color12": "",
-      "color13": "#3c383e",
+      "color13": "#9A9AE6",
       "color14": "",
-      "color15": "#e8e0e8"
+      "color15": "#F0B9AA"
     }
   }

@@ -1,0 +1,28 @@
+{
+    "checksum": "e498ab33fb49b3cd1d487f4597620dd9",
+    "wallpaper": "/home/Kroni4/.cache/rofi-wallpapers/rain_girl_door.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1321",
+        "foreground": "#c2c4c7",
+        "cursor": "#c2c4c7"
+    },
+    "colors": {
+        "color0": "#0e1321",
+        "color1": "#4B4B54",
+        "color2": "#61606C",
+        "color3": "#3C5780",
+        "color4": "#727489",
+        "color5": "#80818E",
+        "color6": "#9896A4",
+        "color7": "#c2c4c7",
+        "color8": "#5d6272",
+        "color9": "#4B4B54",
+        "color10": "#61606C",
+        "color11": "#3C5780",
+        "color12": "#727489",
+        "color13": "#80818E",
+        "color14": "#9896A4",
+        "color15": "#c2c4c7"
+    }
+}

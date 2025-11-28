@@ -1,0 +1,57 @@
+foreground              #FFFFFF
+background              #1A1C23
+background_opacity 1.0
+cursor                  #E6DBD8
+cursor_text_color       #050505
+active_tab_foreground   #1A1C23
+active_tab_background   #7A7A89
+inactive_tab_foreground #7A7A89
+inactive_tab_background #1A1C23
+selection_foreground    #1A1C23
+selection_background    #FFFFFF
+active_border_color     #1A1C23
+inactive_border_color   #FFFFFF
+color0      #293252
+color8      #57638F
+color1      #FFD7CC
+color9      #F0B9AA
+color2      #CCCCFF
+color10     #AAAAF0
+color3      #CCCCFF
+color11     #AAAAF0
+color4      #9AABE6
+color12     #9AABE6
+color5      #9A9AE6
+color13     #9A9AE6
+color6      #9A9AE6
+color14     #9A9AE6
+color7      #FFD7CC
+color15     #F0B9AA
+font_family      JetBrainsMono Nerd Font
+font_size 9
+cursor_shape beam
+cursor_trail 2
+background_opacity 0.8
+dynamic_background_opacity 0.8
+background_blur 1
+bold_font auto
+italic_font auto
+bold_italic_font auto
+window_margin_width 21.75
+initial_window_width 950
+initial_window_height 500
+confirm_os_window_close 0
+shell fish
+map ctrl+c    copy_or_interrupt
+map ctrl+f   launch --location=hsplit --allow-remote-control kitty +kitten search.py @active-kitty-window-id
+map kitty_mod+f   launch --location=hsplit --allow-remote-control kitty +kitten search.py @active-kitty-window-id
+map page_up    scroll_page_up
+map page_down    scroll_page_down
+map ctrl+plus  change_font_size all +1
+map ctrl+equal  change_font_size all +1
+map ctrl+kp_add  change_font_size all +1
+map ctrl+minus       change_font_size all -1
+map ctrl+underscore       change_font_size all -1
+map ctrl+kp_subtract       change_font_size all -1
+map ctrl+0 change_font_size all 0
+map ctrl+kp_0 change_font_size all 0
